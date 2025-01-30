@@ -23,3 +23,5 @@ async function run() {
   }
 }
 run().catch(console.dir);
+
+// Backend will be connected to the MongoDB Atlas
